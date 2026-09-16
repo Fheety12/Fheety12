@@ -1,57 +1,60 @@
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=IBRAHIM%20FATAI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20REACT%20DEVELOPER%20%7C%20BUILDER&descAlignY=60&descSize=18"/>
 
 # Ibrahim Fatai Olasunkanmi
 
-### Web Developer • React Developer • Creative Problem Solver
+### `Web Developer` • `React Developer` • `Creative Problem Solver`
 
 <p>
-  <em>
-    Building modern digital experiences, learning continuously,
-    and turning ideas into practical solutions.
-  </em>
+  <strong>Building modern digital experiences with code, creativity and purpose.</strong>
 </p>
 
 <br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 Welcome to My GitHub
 
-I'm **Ibrahim Fatai Olasunkanmi**, a web developer based in **Lagos, Nigeria**, passionate about technology, creativity, business, and problem-solving.
+I'm **Ibrahim Fatai Olasunkanmi**, a web developer from **Lagos, Nigeria**, passionate about technology, creativity, business, and solving real-world problems through digital products.
 
-I enjoy creating clean, responsive, and user-friendly websites and applications. My development journey started with the fundamentals of HTML, CSS, and JavaScript, and has grown into exploring modern tools such as React, Vite, Tailwind CSS, and Git.
-
-Alongside technology, I have an academic background in **Business Administration**, which gives me an additional perspective on business processes, customers, products, and digital solutions.
-
-My goal is to combine **technology + creativity + business thinking** to build digital products that solve meaningful problems.
-
----
-
-## 🚀 What I Do
+I enjoy taking an idea from:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   💻 Web Development        🎨 UI & Responsive Design         │
-│                                                              │
-│   ⚛️ React Development      🧩 Component Development          │
-│                                                              │
-│   🔧 Git & GitHub            🚀 Vite Development              │
-│                                                              │
-│   📱 Mobile Development      💡 Digital Product Ideas         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+💻 Development
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+   ↓
+🌍 Real-world Product
